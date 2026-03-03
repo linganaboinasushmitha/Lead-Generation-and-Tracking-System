@@ -1,4 +1,4 @@
-# 🌐 DevConnector 2.0 – Developer Social Network
+# 🌐Developer Social Network
 
 ## 🚀 Project Overview
 
