@@ -1,8 +1,8 @@
-# 🌐 DevConnector 2.0 – Developer Social Network
+# 🌐 Developer Social Network
 
 ## 🚀 Project Overview
 
-DevConnector 2.0 is a full-stack social networking application built using the MERN stack.  
+a full-stack social networking application built using the MERN stack.  
 The platform allows developers to create profiles, authenticate securely, share posts, and interact with other developers.
 
 This project demonstrates authentication, protected routing, API integration, and scalable full-stack architecture.
